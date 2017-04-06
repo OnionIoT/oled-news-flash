@@ -1,0 +1,5 @@
+{
+    "X-API-KEY" : "your api key here",
+    "source" : "reuters",
+    "sortBy" : "latest"
+}
